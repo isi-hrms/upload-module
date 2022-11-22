@@ -1,7 +1,7 @@
 # NOTED
 
-- `npm install hrms-uploadfile --save`
-- setting file *.env* , *configUpload/upload.js* dan *app/middleware/upload.js*.
+- `npm install @agustriadji/upload-files --save`
+- setting file *.env* , *config/upload.js* dan *app/middleware/upload.js*.
 
 # Config File Uplaod
 
