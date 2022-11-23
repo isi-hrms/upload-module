@@ -1,5 +1,5 @@
 {
-  "name": "@agustriadji/upload-files",
+  "name": "@isi-hrms/upload-filesv1",
   "version": "0.0.4",
   "description": "module upload file HRMS",
   "main": "index.js",
@@ -37,14 +37,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agustriadji/moduleUploadHRMS.git"
+    "url": "git+https://github.com/isi-hrms/upload-module.git"
   },
-  "author": "agustriadji",
+  "author": "isi_dev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/agustriadji/moduleUploadHRMS/issues"
+    "url": "https://github.com/isi-hrms/upload-module/issues"
   },
-  "homepage": "https://github.com/agustriadji/moduleUploadHRMS/blob/master/README.md",
+  "homepage": "https://github.com/isi-hrms/upload-module/blob/master/README.md",
   "keywords": [
     "hrms",
     "upload",
